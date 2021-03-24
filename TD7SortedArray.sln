@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD7SortedArray", "TD7SortedArray.csproj", "{30F939C3-A425-4BB7-B473-5F1FDD0F877C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30F939C3-A425-4BB7-B473-5F1FDD0F877C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F939C3-A425-4BB7-B473-5F1FDD0F877C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F939C3-A425-4BB7-B473-5F1FDD0F877C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F939C3-A425-4BB7-B473-5F1FDD0F877C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D06500F8-7284-48B0-95B9-94D74386A87E}
+	EndGlobalSection
+EndGlobal
